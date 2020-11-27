@@ -61,3 +61,5 @@ sidebars:
 
 theme: jekyll-theme-cayman
 baseurl: /first_test/
+=======
+theme: jekyll-theme-modernist
